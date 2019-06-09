@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT caldo_4432.wsgi:application
